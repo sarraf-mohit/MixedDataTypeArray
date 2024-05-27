@@ -1,0 +1,14 @@
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\bin\Debug\net8.0\MixedTypeArray.exe
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\bin\Debug\net8.0\MixedTypeArray.deps.json
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\bin\Debug\net8.0\MixedTypeArray.runtimeconfig.json
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\bin\Debug\net8.0\MixedTypeArray.dll
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\bin\Debug\net8.0\MixedTypeArray.pdb
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\MixedTypeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\MixedTypeArray.AssemblyInfoInputs.cache
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\MixedTypeArray.AssemblyInfo.cs
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\MixedTypeArray.csproj.CoreCompileInputs.cache
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\MixedTypeArray.dll
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\refint\MixedTypeArray.dll
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\MixedTypeArray.pdb
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\MixedTypeArray.genruntimeconfig.cache
+C:\Users\mohit.sarraf\source\repos\MixedTypeArray\MixedTypeArray\obj\Debug\net8.0\ref\MixedTypeArray.dll
